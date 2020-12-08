@@ -1,10 +1,11 @@
 import { Flex, Spacer, Box, Button, Heading, Tabs, TabList, TabPanels, Tab, TabPanel, SimpleGrid } from "@chakra-ui/react"
 
 function Home() {
-    const item1 = {
-        imageUrl: "",
-        name: "",
-        itemPrice: ""
+    const Laptop1 = {
+        imageUrl: "https://res.cloudinary.com/dudhmrdin/image/upload/v1607443408/Apple_macbookpro-13-inch_screen_05042020_yg4zoi.jpg",
+        name: "Apple MacBook Pro (2020)",
+        itemInch: "13 Inch",
+        itemPrice: "₦790,000"
     }
     return (
         <div className="content">
