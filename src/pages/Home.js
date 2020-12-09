@@ -11,7 +11,7 @@ function Home() {
         itemPrice: "₦790,000"
     }
     const phone1 = {
-        imageUrl: "https://res.cloudinary.com/dudhmrdin/image/upload/v1607459242/iPhone12ProMax-PacificBlue-1_wetz7n.webp",
+        imageUrl: "https://res.cloudinary.com/dudhmrdin/image/upload/v1607476704/iphone_g7to7z.png",
         name: "Apple iPhone 12 Pro Max",
         itemRom: 128,
         itemBrand: "Apple",
