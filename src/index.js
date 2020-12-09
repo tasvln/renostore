@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { BrowserRouter as Router, Switch, Route, Link, useParams } from "react-router-dom";
 
 import { ChakraProvider } from "@chakra-ui/react"
 
