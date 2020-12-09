@@ -1,4 +1,4 @@
-import { Flex, Spacer, Box, Button, Heading, Tabs, TabList, TabPanels, Tab, TabPanel, SimpleGrid, Image, Badge, Text } from "@chakra-ui/react"
+import { Box, Button, Tabs, TabList, TabPanels, Tab, TabPanel, SimpleGrid, Image, Badge, Text } from "@chakra-ui/react"
 
 function Home() {
     const laptop1 = {
